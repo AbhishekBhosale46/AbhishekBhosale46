@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekbhosale46" alt="abhishekbhosale46" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
+ 🌱 I’m currently learning **Django**
 
-- 📝 I regularly write articles on [https://medium.com/@bhosaleabhishek](https://medium.com/@bhosaleabhishek)
+ 📝 I regularly write articles on [https://medium.com/@bhosaleabhishek](https://medium.com/@bhosaleabhishek)
 
-- 💬 Ask me about **Android development, React, Algorithmic Trading,**
+ 💬 Ask me about **Android development, React, Algorithmic Trading,**
 
-- 📫 How to reach me **abhisheksachinbhosale@gmail.com**
+ 📫 How to reach me **abhisheksachinbhosale@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
