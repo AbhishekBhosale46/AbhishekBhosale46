@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for buildi
 
 ## 📫 Let's Connect!
 
-- **LinkedIn**: ([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/abhishek-bhosale-423abb1ba/))
+- **LinkedIn**: [https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/abhishek-bhosale-423abb1ba/)
 - **Leetcode**: [https://leetcode.com/abhisheksachinbhosale/](https://leetcode.com/abhisheksachinbhosale/)
 - **Email**: [abhisheksachinbhosale@gmail.com](abhisheksachinbhosale@gmail.com)
 
