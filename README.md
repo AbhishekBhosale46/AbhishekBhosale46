@@ -32,13 +32,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for buildi
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-	![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
-
-## 🏆 Achievements
-
-- **Google Code-in 2018 & 2019**: Recognized with prize & goodies for open source contributions.
-- **UNITY-3D Recognition**: Shout-out on official Twitter & Facebook for developing a holiday-themed game at age 14.
 
 ## 📫 Let's Connect!
 
