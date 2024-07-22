@@ -39,6 +39,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for buildi
 
 - **LinkedIn**: [https://www.linkedin.com/in/abhishek-bhosale-423abb1ba/](https://www.linkedin.com/in/abhishek-bhosale-423abb1ba/)
 - **Leetcode**: [https://leetcode.com/abhisheksachinbhosale/](https://leetcode.com/abhisheksachinbhosale/)
-- **Email**: [abhisheksachinbhosale@gmail.com](abhisheksachinbhosale@gmail.com)
+- **X**: [https://x.com/Abhishe79934643/](https://x.com/Abhishe79934643/)
+- **Medium** [https://medium.com/@bhosaleabhishek](https://medium.com/@bhosaleabhishek)
 
 Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you want to collaborate or just have a chat!
