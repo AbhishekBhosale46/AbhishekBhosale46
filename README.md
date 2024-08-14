@@ -46,30 +46,28 @@ Feel free to explore my repositories, and let's connect if you'd like to collabo
 - Optimized one-to-many & relaxed match rules for the financial reconciliation platform.
 - Built a lightweight ORM library in Python to perform DQL queries, reducing raw SQL code by 30%.
 - Created reusable packages for Email & SFTP, streamlining data transfer & saving development time by 20%.
-- Explored & built an MVP of a custom Retrieval-Augmented Generation chatbot using LLM technology.
 
 ### Full Stack Developer Intern at Govardhan Ecovillage (Jun. 2023 – Jul. 2023)
 - Developed an interactive admin dashboard using ReactJS, Bootstrap5, & Axios for efficient data management.
 - Coordinated with the backend team & integrated the backend REST APIs.
-- Delivered a robust & user-friendly admin dashboard satisfying the organization's needs.
 
 ---
 
 ## 🚀 Projects
 
-### **Online Judge** | Python, FastAPI, RabbitMQ, Docker SDK
+### **[Online Judge](https://github.com/AbhishekBhosale46/OnlineJudge)** | Python, FastAPI, RabbitMQ, Docker SDK
 - Designed a code sandboxing system to compile & run C++, Java, & Python programs inside Docker containers, enforcing time & memory limits.
 - Functionality to compare expected & actual outputs, providing verdicts like TLE, MLE, RE, CE, AC, WA.
 - Built REST APIs using FastAPI for asynchronous code execution, handling user submissions & task assignments via RabbitMQ.
 - Ensured horizontal scalability of workers & implemented a webhook callback mechanism to notify task status.
 
-### **WallStreet** | Django Rest, ReactJS, Celery, Redis, PostgreSQL, Docker
+### **[WallStreet](https://github.com/AbhishekBhosale46/WallStreet24)** | Django Rest, ReactJS, Celery, Redis, PostgreSQL, Docker
 - Built a virtual stock market simulation platform for IPO subscriptions, stock trading, viewing charts & news, engaging 150+ active players.
 - Developed Celery-based architecture for processing orders, releasing periodic news using Redis as job queue.
 - Implemented weighted average & pro rata allotment system for fair IPO distribution.
 - Dockerized & deployed the platform in production using Gunicorn & Nginx on Azure cloud.
 
-### **ResearchSphere** | Django Rest, PostgreSQL
+### **[ResearchSphere](https://github.com/AbhishekBhosale46/DRF-Research-Platform)** | Django Rest, PostgreSQL
 - Developed API endpoints for listing, searching, & applying to research/project opportunities.
 - Enabled application management for opportunity owners to review, accept, or reject applications.
 - Implemented features like filtering, sorting, & pagination to enhance user experience & data searchability.
