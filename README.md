@@ -1,10 +1,9 @@
-# Hi there! 👋 I'm Abhishek Bhosale
-
+ 
 <h1 align="center">
   <img src="https://github.com/user-attachments/assets/44a3c3be-9cbc-41ea-a2e3-3b1e4e126a09" width="100%" alt="Abhishek Bhosale" />
 </h1>
 
-Welcome to my portfolio! I'm a passionate developer with a knack for building innovative and efficient software solutions and have experience in full-stack development, backend engineering, and cloud technologies.
+Hi there! 👋 I'm Abhishek Bhosale, welcome to my portfolio! I'm a passionate developer with a knack for building innovative and efficient software solutions and have experience in full-stack development, backend engineering, and cloud technologies.
 
 Feel free to explore my repositories, and let's connect if you'd like to collaborate or discuss exciting projects!
 
