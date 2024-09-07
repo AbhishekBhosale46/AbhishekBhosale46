@@ -1,8 +1,17 @@
 # Hi there! 👋 I'm Abhishek Bhosale
 
+<h1 align="center">
+  <img src="https://github.com/user-attachments/assets/44a3c3be-9cbc-41ea-a2e3-3b1e4e126a09" width="100%" alt="Abhishek Bhosale" />
+</h1>
+
 Welcome to my portfolio! I'm a passionate developer with a knack for building innovative and efficient software solutions and have experience in full-stack development, backend engineering, and cloud technologies.
 
 Feel free to explore my repositories, and let's connect if you'd like to collaborate or discuss exciting projects!
+
+I'm always excited to chat about tech, projects, and anything you're passionate about! If you'd like to connect, feel free to pick a time slot using the link below. Just let me know the agenda when scheduling.
+
+<a href="https://calendly.com/abhisheksachinbhosale" target="_blank"><img src="https://github.com/user-attachments/assets/c5fd332a-6893-41eb-93c7-f699810bc175" width ="120" height="69"></a> <a href="https://calendly.com/abhisheksachinbhosale" target="_blank"><img width="500" height="72" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+
 
 ---
 
