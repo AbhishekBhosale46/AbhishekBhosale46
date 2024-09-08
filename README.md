@@ -3,11 +3,11 @@
   <img src="https://github.com/user-attachments/assets/44a3c3be-9cbc-41ea-a2e3-3b1e4e126a09" width="100%" alt="Abhishek Bhosale" />
 </h1>
 
-Hi there! 👋 I'm Abhishek Bhosale, welcome to my portfolio! I'm a passionate developer with a knack for building innovative and efficient software solutions and have experience in full-stack development, backend engineering, and cloud technologies.
+**Hi there! 👋 I'm Abhishek Bhosale**, welcome to my portfolio! I'm a passionate developer with experience in full-stack development, backend engineering, & cloud technologies, focused on building efficient solutions.
 
 Feel free to explore my repositories, and let's connect if you'd like to collaborate or discuss exciting projects!
 
-Want to talk tech or ideas? Pick a time [through Calendly](https://calendly.com/abhisheksachinbhosale) ! 📞👇
+📞👇 Want to talk tech or ideas? Pick a time [through Calendly](https://calendly.com/abhisheksachinbhosale) ! 
 
 <a href="https://calendly.com/abhisheksachinbhosale" target="_blank"><img src="https://github.com/user-attachments/assets/c5fd332a-6893-41eb-93c7-f699810bc175" width ="120" height="69"></a> <a href="https://calendly.com/abhisheksachinbhosale" target="_blank"><img width="500" height="72" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
@@ -52,8 +52,8 @@ Want to talk tech or ideas? Pick a time [through Calendly](https://calendly.com/
 ### Software Engineer Intern at RhythmFlows Solution Pvt. Ltd. (Jan. 2024 – Apr. 2024)
 - Developed REST APIs using Django Rest Framework for the financial reconciliation platform backend.
 - Optimized one-to-many & relaxed match rules for the financial reconciliation platform.
-- Built a lightweight ORM library in Python to perform DQL queries, reducing raw SQL code by 30%.
-- Created reusable packages for Email & SFTP, streamlining data transfer & saving development time by 20%.
+- Built a lightweight ORM library in Python to perform DQL queries, reducing raw SQL code.
+- Created reusable packages for Email & SFTP, streamlining data transfer & saving development time.
 
 ### Full Stack Developer Intern at Govardhan Ecovillage (Jun. 2023 – Jul. 2023)
 - Developed an interactive admin dashboard using ReactJS, Bootstrap5, & Axios for efficient data management.
